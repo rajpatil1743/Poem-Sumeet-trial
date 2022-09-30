@@ -3,6 +3,7 @@ The Rainbow
 Purple 
 Pink 
 orange
-blue 
+blue
+Green
 red
 These are the colours of the rainbow.
